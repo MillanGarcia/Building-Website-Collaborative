@@ -1,3 +1,32 @@
 body{
-    background: #BDBDBD;
+    background: #fefefe;
+}
+
+
+.col-sm-4 img{
+width: 150px;
+height: 136px;
+border-radius: 68px;
+
+margin-top: 14px;
+margin-right: 7px;
+margin-left: 30px;
+
+}
+ 
+.col-sm-8 img{
+    width: 150px;
+    height: 136px;
+    border-radius: 68px;
+    
+    margin-top: 14px;
+    margin-right: 7px;
+    margin-left: 30px;
+
+    }
+
+.row div.col-sm-8 h1 span{
+    color: grey;}
+.row{
+    width: 964px;
 }
